@@ -8,7 +8,7 @@ Tetris is a tile-matching puzzle game from the 80’s. Try to get your personal 
 
 This was my first project for the learning and starting of javascript . It was fun to create project with JavaScript.
 
-![Tetris]()
+![Tetris](https://sourabh-semalty.github.io/Tetris-Game-Vanilla-Js/)
 
 <h2>Brief</h2>
  
