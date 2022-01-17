@@ -1,18 +1,14 @@
 # Tetris
-A vanilla javascript game
 
-Watch my tutorial [here](https://www.youtube.com/watch?v=GWPGz9hrVMk)
+A vanilla javascript game
 
 I have kept the styling at a bare miniumum for you to go wild and make it your own. Please tag me as I would LOVE to see your game!!!
 
 Tetris is a tile-matching puzzle game from the 80’s. Try to get your personal high score by moving each of the 5 randomly selected Tetromino shapes sideways and/or rotating by quarter-turns, so that they form a solid horizontal line without gaps. When such a line is formed, it disappears and any blocks above it fall down to fill the space. For each line you will receive 10 points.
- 
-This was my first project from General Assembly's Software Engineering Immersive Course. It was also my first time building a project with JavaScript.
 
-![Tetris](https://github.com/kubowania/Tetris/blob/master/images/Tetris%20Game.gif)
+This was my first project for the learning and starting of javascript . It was fun to create project with JavaScript.
 
-
-
+![Tetris]()
 
 <h2>Brief</h2>
  
@@ -27,15 +23,14 @@ This was my first project from General Assembly's Software Engineering Immersive
 
 <h2>Technologies Used</h2>
 
-* HTML5
-* CSS3
-* JavaScript
-* Git
-* GitHub
-* Google Fonts
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Google Fonts
 
 <h2>Features piece of code no.1</h2>
-
 
 ```
 //freeze the shape
@@ -61,7 +56,6 @@ This was my first project from General Assembly's Software Engineering Immersive
 
 <h2>Features piece of code no.2</h2>
 
-
 ```
   //Add score
   function addScore() {
@@ -79,15 +73,3 @@ This was my first project from General Assembly's Software Engineering Immersive
         })
 
 ```
-
-### MIT Licence
-
-Copyright (c) 2020 Ania Kubow
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*Translation: Ofcourse you can use this for you project! Just make sure to say where you got this from :)
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
